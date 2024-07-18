@@ -1,6 +1,6 @@
 # Welcome to Power BI Bootcamp
 
-### Power Query:  
+### Power BI Basics: Getting Started
 1. Tool Introduction:
    - Power Bi has option to work in multiple layouts.
    - It provides an option to connect with multiple data sources.
@@ -26,8 +26,66 @@
    - Inshort, Connecting Table
    - Data Modelling is all about creating connections between tables.
    - Primary(Dimemsion) tables and Fact tables are two kinds of tables.
-   
+7. Creating Visuals:
+   - KPI card, Bar/Pie Charts, Tables/Matrix and Slicers are commonly used visuals.
+   - One neew to click the visuals to activate the visual settings.
+   - Use horizontal bar chart to represnt more than 3 categories.
+8. Summary/CRUX:
+   - "Power BI is an end-to-end enterprise business intelligence tool. It supports various layouts and connects with many data sources, offering flexibility in data presentation and analysis."
+   - "Power Query functions as an ETL (Extract, Transform, Load) engine, enabling filtering, sorting, and the addition of new columns, which are essential for data manipulation."
+   - Data Modeling in Power BI focuses on creating connections between tables, primarily involving two kinds of tables: Dimension (Primary) tables and Fact tables
+   - "DAX (Data Analysis Expressions) is the language used to create formulas in Power BI, while M-language is used for scripting in Power Query."
+   - "Effective visuals, such as KPI cards and bar charts, combined with robust data modeling, are central to Power BI’s capabilities in data analysis and reporting.
+________________________________
 
+### Project Plannning & Scoping:
+1. **Problem Statement:**   
+This is a project-based learning course. We will use an imaginary company called AtliQ Hardware and discuss its business model. It is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.      
+_Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work._
+3. **The Email that Started this Project:**   
+The data analytics project starts with an email from a product owner roughly outlining the requirements of 5 different dashboards in Power BI.
+4. **Project Kick-off Meeting:**   
+A project kick-off meeting is held between the product owner, senior data analyst, and a junior data analyst to discuss the project. The senior data analyst Tony Sharma asks some important questions during the meeting.
+5. **Learn how a ‘Project Charter’ is Used in Companies:**   
+A project charter is a short document describing the entire project. We will use a tool called Mural for this and cover few important dimensions of the project such as,   
+   - Project goals
+   - Key stakeholders
+   - Hopes and fears
+   - Risks
+   - Timeline
+6. **Project Kick-off: Session Debrief:**   
+In this session debrief we will talk about 3 skills that we need to learn out of the project kick-off meeting,
+   - Being proactive
+   - Expectation management
+   - Project management skills
+7. **Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst:**
+Senior data analyst, Tony Sharma, will now set up the next steps with Junior data analyst, Peter Pandey. In this video, they will cover the following topics,
+   - Create a Microsoft teams channel
+   - Why Microsoft teams for project communication?
+   - Sent action points in the teams channel
+   - What is Fiscal Year (a.k.a FY)?
+   - Why Power BI?
+8. **Simplified: Profit and Loss Statement**   
+   - Revenue
+   - Net invoice sales
+   - Pre-invoice deductions
+   - Post invoice discounts
+   - Net sales
+   - COGS: Cost of goods sold
+   - Gross margin
+9. **Summary/CRUX:**   
+   - Spending time to understand the problem, the end goal, and the bigger picture of the project is the very important first step of any project.
+   - It is critical to constantly align your understanding of project scope, requirements, and timelines with the product owner / key stakeholder throughout the project.
+   - The profit and loss statement is the most important piece of analysis any company will need.
+________________________________
+
+### Power BI Basics: Data Collection, Exploration & Validation
+1. Simplified: Data Warehouse, OLTP vs OLAP, Data Catalog:   
+Using a very simple example, we will understand the following concepts,
+   - What is a data warehouse
+   - OLTP (Online Transaction Processing) vs OLAP (Online Analytical Processing)
+   - What is data catalog
+2. 
 
 
 
